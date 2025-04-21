@@ -152,7 +152,7 @@ with tab1:
     with st.spinner("오늘의 이슈를 불러오는 중..."):
         issue_data = {
             "argument": {
-                "date": "2025-04-20",
+                "date": date_str,
                 "provider": ["02100201"]
             }
         }

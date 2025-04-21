@@ -12,11 +12,12 @@ def render(selected_date, debug_mode):
 
     # 오늘의 이슈 API 호출 (issue_ranking)
     with st.spinner(f"{date_str}의 이슈를 불러오는 중..."):
+        # 디버깅: API 요청 전 날짜 확인
+        st.write(f"DEBUG: API 요청 날짜 (사용 형식): {date_str}")
         issue_data = {
             "argument": {
-                "date": date_str_no_dash, # 수정: 하드코딩된 날짜 대신 선택된 날짜 사용
+                "date": date_str, # 수정: "YYYY-MM-DD" 형식 사용
                 "provider": ["02100201"], # 서울경제 코드로 추정됨, 확인 필요
-                "return_size": 20 # 추가: 반환받을 이슈 개수 요청 (API 지원 여부 확인 필요)
             }
         }
 
