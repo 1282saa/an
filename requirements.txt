@@ -1,7 +1,8 @@
+
 streamlit
 pandas
 numpy
 requests
 matplotlib
 seaborn
-python-dotenv 
+python-dotenv

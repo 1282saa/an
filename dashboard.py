@@ -70,7 +70,7 @@ def render_dashboard(selected_date, debug_mode):
         issue_data = {
             "argument": {
                 "date": req_date_str,
-                "provider": ["02100201"], 
+                "provider": ["02100311"],  # 서울경제의 올바른 코드로 수정
             }
         }
         return make_api_request(API_KEY, ENDPOINTS.get("issue_ranking"), issue_data, debug=debug_mode)
@@ -137,10 +137,19 @@ def render_dashboard(selected_date, debug_mode):
                     button_key = f"detail_btn_{i}"
                     if st.button("자세히 보기", key=button_key):
                         st.session_state.view = 'detail'
-                        st.session_state.selected_issue_data = issue # 전체 이슈 데이터 저장
+                        # 이슈 데이터에 필요한 정보 추가
+                        issue_data_for_detail = {
+                            "title": topic,
+                            "summary": summary_text,
+                            "news_cluster": news_cluster,
+                            "news_count": news_count,
+                            "keywords": issue.get("topic_keyword", ""),  # 키워드 데이터 추가
+                            "topic_rank": issue.get("topic_rank", 0)
+                        }
+                        st.session_state.selected_issue_data = issue_data_for_detail
                         st.rerun()
                         
                     st.markdown("</div>", unsafe_allow_html=True) # 카드 div 닫기
 
     else:
-        st.error(f"{date_str}의 이슈를 불러오는데 실패했습니다.") 
+        st.error(f"{date_str}의 이슈를 불러오는데 실패했습니다.")

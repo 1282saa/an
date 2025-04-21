@@ -3,56 +3,12 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import re
+import os # os 모듈 임포트 추가 (폰트 경로 확인 시 사용될 수 있음)
 from datetime import datetime, timedelta
 from utils import make_api_request # utils.py 의 함수 임포트
 from config import API_KEY, ENDPOINTS # config.py 의 설정값 임포트
 
 # --- issue_analysis.py 에서 가져온 함수들 ---
-
-# Matplotlib 한국어 설정 (utils.py에서 가져옴)
-def setup_korean_font_for_matplotlib():
-    """Matplotlib에서 한국어 폰트를 설정합니다."""
-    try:
-        import platform
-        import matplotlib.font_manager as fm
-
-        system_name = platform.system()
-
-        if system_name == "Darwin":  # Mac OS
-            font_name = "AppleGothic"
-        elif system_name == "Windows":  # Windows
-            font_name = "Malgun Gothic"
-        else:  # Linux
-            # 기본적으로 NanumGothic을 시도. 없으면 다른 폰트 지정 필요.
-            # 시스템에 나눔폰트 설치 필요: sudo apt-get install fonts-nanum*
-            font_path = "/usr/share/fonts/truetype/nanum/NanumGothic.ttf"
-            if fm.findfont("NanumGothic", fontext="ttf"):
-                font_name = "NanumGothic"
-            elif os.path.exists(font_path):
-                 # 폰트 경로 직접 추가
-                 fm.fontManager.addfont(font_path)
-                 font_name = "NanumGothic"
-            else:
-                # 대체 폰트 또는 경고
-                print("경고: 나눔고딕 폰트를 찾을 수 없습니다. 시스템 기본 폰트를 사용합니다.")
-                # 시스템 기본 폰트 사용 (차트 깨질 수 있음)
-                font_name = fm.FontProperties(family='sans-serif').get_name()
-
-
-        # 폰트 설정
-        plt.rc('font', family=font_name)
-        # 마이너스 기호 깨짐 방지
-        plt.rcParams['axes.unicode_minus'] = False
-        print(f"Matplotlib 한국어 폰트 설정 완료: {font_name}")
-
-    except ImportError:
-        print("Matplotlib 또는 해당 모듈이 설치되지 않았습니다.")
-    except Exception as e:
-        print(f"폰트 설정 중 오류 발생: {e}")
-
-# 함수 호출
-setup_korean_font_for_matplotlib()
-
 
 def render_related_news(related_news):
     """관련 기사 목록 렌더링"""
