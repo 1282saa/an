@@ -8,6 +8,7 @@ from utils import setup_korean_font
 # from tabs import today_issues, issue_analysis, historical_comparison
 from tabs import issue_analysis, historical_comparison # 우선 기존 탭 임포트 유지 (detail_page에서 사용 예정)
 import dashboard # 수정: dashboard 모듈 임포트
+import detail_page # 상세 페이지 모듈 임포트
 # import detail_page # 다음 단계에서 임포트 예정
 
 # --- 페이지 설정 (가장 먼저 호출) ---
@@ -81,30 +82,10 @@ elif st.session_state.view == 'detail':
     # === 상세 페이지 뷰 렌더링 (다음 단계에서 detail_page.py 생성 및 연결) ===
     # st.title("🔍 이슈 상세 분석") # detail_page.py에서 타이틀 설정 예정
     if st.session_state.selected_issue_data:
-        # 여기에 detail_page.render(...) 호출 예정
-        # 임시 상세 뷰 내용 유지
-        st.title("🔍 이슈 상세 분석 (임시)")
-        st.write(f"선택된 이슈: {st.session_state.selected_issue_data.get('topic', 'N/A')}")
-        st.info("이슈 상세 페이지 UI가 여기에 표시됩니다. (다음 단계에서 구현)")
-        tab1, tab2 = st.tabs(["현재 이슈 분석", "과거 데이터 비교"])
-        with tab1:
-             # 상세 페이지로 이동 시, 분석이 자동으로 실행되도록 하거나, 버튼을 유지해야 함
-             # 우선 기존 issue_analysis.render 호출 유지 (버튼이 내부에 있음)
-             issue_analysis.render(selected_date, days_to_analyze, debug_mode)
-        with tab2:
-             historical_comparison.render(selected_date, debug_mode)
-        # 뒤로가기 버튼
-        if st.button("◀ 대시보드로 돌아가기"):
-            st.session_state.view = 'dashboard'
-            st.session_state.selected_issue_data = None # 선택된 이슈 초기화
-            # 이전 분석 결과도 초기화할지 결정 필요
-            if 'analysis_result' in st.session_state: 
-                del st.session_state.analysis_result
-            st.rerun()
+        detail_page.render_detail_page(st.session_state.selected_issue_data, debug_mode) # 상세 페이지 렌더링 함수 호출
     else:
         st.warning("표시할 이슈 데이터가 없습니다. 대시보드로 돌아갑니다.")
-        st.session_state.view = 'dashboard'
-        st.rerun()
+        st.button("대시보드로 돌아가기", on_click=lambda: st.session_state.update(view='dashboard', selected_issue_data=None))
 
 # --- 푸터 (기존 로직 유지) --- 
 st.divider()
