@@ -1,0 +1,38 @@
+# Git
+.git
+.gitignore
+
+# 배포 관련 문서
+deploy/
+
+# Docker 관련 파일
+.dockerignore
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 기타
+.DS_Store
+.env
+.venv
+*.swp
+*.swo 
