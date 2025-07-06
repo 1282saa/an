@@ -1,0 +1,52 @@
+[2025-06-29 19:42:14] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-06-29 19:42:14] [briefing_service] [ERROR] OpenAI API 호출 오류: cannot import name 'AsyncOpenAI' from 'openai' (/Users/file/anaconda3/lib/python3.12/site-packages/openai/__init__.py)
+[2025-06-29 19:42:14] [briefing_service] [ERROR] OpenAI API 호출 실패: cannot import name 'AsyncOpenAI' from 'openai' (/Users/file/anaconda3/lib/python3.12/site-packages/openai/__init__.py)
+[2025-06-29 19:42:18] [briefing_service] [INFO] BigKinds word_cloud API로 23 개 키워드 추출 성공
+[2025-06-29 20:24:39] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-06-29 20:24:39] [briefing_service] [ERROR] OpenAI API 호출 오류: cannot import name 'AsyncOpenAI' from 'openai' (/Users/file/anaconda3/lib/python3.12/site-packages/openai/__init__.py)
+[2025-06-29 20:24:39] [briefing_service] [ERROR] OpenAI API 호출 실패: cannot import name 'AsyncOpenAI' from 'openai' (/Users/file/anaconda3/lib/python3.12/site-packages/openai/__init__.py)
+[2025-06-29 20:24:42] [briefing_service] [INFO] BigKinds word_cloud API로 23 개 키워드 추출 성공
+[2025-06-30 01:01:30] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-06-30 01:01:30] [briefing_service] [ERROR] OpenAI API 호출 오류: cannot import name 'AsyncOpenAI' from 'openai' (/Users/file/anaconda3/lib/python3.12/site-packages/openai/__init__.py)
+[2025-06-30 01:01:30] [briefing_service] [ERROR] OpenAI API 호출 실패: cannot import name 'AsyncOpenAI' from 'openai' (/Users/file/anaconda3/lib/python3.12/site-packages/openai/__init__.py)
+[2025-06-30 01:01:33] [briefing_service] [INFO] BigKinds word_cloud API로 25 개 키워드 추출 성공
+[2025-07-03 13:49:18] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-03 13:49:18] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-03 13:49:22] [briefing_service] [INFO] OpenAI API 응답 수신: 592 글자
+[2025-07-03 13:49:22] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-03 13:49:24] [briefing_service] [INFO] BigKinds word_cloud API로 13 개 키워드 추출 성공
+[2025-07-04 10:34:40] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-04 10:34:40] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-04 10:34:46] [briefing_service] [INFO] OpenAI API 응답 수신: 579 글자
+[2025-07-04 10:34:46] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-04 10:34:50] [briefing_service] [INFO] BigKinds word_cloud API로 25 개 키워드 추출 성공
+[2025-07-04 10:34:54] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-04 10:34:54] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-04 10:34:59] [briefing_service] [INFO] OpenAI API 응답 수신: 585 글자
+[2025-07-04 10:34:59] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-04 10:35:02] [briefing_service] [INFO] BigKinds word_cloud API로 24 개 키워드 추출 성공
+[2025-07-04 10:36:32] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-04 10:36:32] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-04 10:36:36] [briefing_service] [INFO] OpenAI API 응답 수신: 568 글자
+[2025-07-04 10:36:36] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-04 10:36:40] [briefing_service] [INFO] BigKinds word_cloud API로 25 개 키워드 추출 성공
+[2025-07-04 10:37:42] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-04 10:37:42] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-04 10:37:46] [briefing_service] [INFO] OpenAI API 응답 수신: 579 글자
+[2025-07-04 10:37:46] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-04 10:37:49] [briefing_service] [INFO] BigKinds word_cloud API로 25 개 키워드 추출 성공
+[2025-07-04 10:47:15] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-04 10:47:15] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-04 10:47:20] [briefing_service] [INFO] OpenAI API 응답 수신: 618 글자
+[2025-07-04 10:47:20] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-04 10:47:22] [briefing_service] [INFO] BigKinds word_cloud API로 25 개 키워드 추출 성공
+[2025-07-04 12:59:29] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-04 12:59:29] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-04 12:59:33] [briefing_service] [INFO] OpenAI API 응답 수신: 566 글자
+[2025-07-04 12:59:33] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-04 12:59:37] [briefing_service] [INFO] BigKinds word_cloud API로 25 개 키워드 추출 성공
+[2025-07-04 13:00:25] [briefing_service] [WARNING] 서울경제 기사 부족 (5개), 전체 기사 사용
+[2025-07-04 13:00:25] [briefing_service] [INFO] OpenAI API 호출 시작
+[2025-07-04 13:00:30] [briefing_service] [INFO] OpenAI API 응답 수신: 575 글자
+[2025-07-04 13:00:30] [briefing_service] [INFO] JSON 블록에서 파싱 성공
+[2025-07-04 13:00:33] [briefing_service] [INFO] BigKinds word_cloud API로 24 개 키워드 추출 성공

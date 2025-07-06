@@ -1,0 +1,1367 @@
+[2025-06-29 17:24:01] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:24:01] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:24:01] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:24:01] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:24:01] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:24:01] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:24:01] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:26:04] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:26:04] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:26:04] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:26:04] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:26:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:26:05] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:26:05] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:26:05] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:27:04] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:27:04] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:27:04] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:27:04] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:27:04] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:28:08] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:28:08] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:28:08] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:28:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:28:08] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:38] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:38] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:38] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:38] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:38] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:30:38] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:39] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:39] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:39] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:39] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:30:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:30:39] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:33:19] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:33:19] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:33:19] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:33:19] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:33:19] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:34:41] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:34:41] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:34:41] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:34:41] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:37:46] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] 질문 분석: 삼성전자 → {'type': 'company', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] 추출된 키워드: ['삼성전자']
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] 검색 1단계 시도: 기본 검색: 삼성전자
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] 쿼리: "삼성전자"
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:37:46] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:37:46] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:37:46] [api.bigkinds] [WARNING] ❌ 1단계 검색 결과 없음
+[2025-06-29 17:37:46] [api.bigkinds] [ERROR] 모든 폴백 검색 실패: '삼성전자' → ['삼성전자']
+[2025-06-29 17:37:56] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] 질문 분석: news → {'type': 'general', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] 추출된 키워드: ['news']
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] 검색 1단계 시도: 기본 검색: news
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] 쿼리: "news"
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:37:56] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:37:56] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:37:56] [api.bigkinds] [WARNING] ❌ 1단계 검색 결과 없음
+[2025-06-29 17:37:56] [api.bigkinds] [ERROR] 모든 폴백 검색 실패: 'news' → ['news']
+[2025-06-29 17:38:42] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:38:42] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:38:42] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:38:42] [api.bigkinds] [WARNING] BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:38:42] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-28, until: 2025-06-30, limit: 30
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 키: NO_API_KEY
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:38:42] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'request_id': '', 'result': -1, 'reason': 'Invalid Access Key!:NO_API_KEY'}
+[2025-06-29 17:38:42] [api.bigkinds] [ERROR] BigKinds API 오류: result=-1, reason=Invalid Access Key!:NO_API_KEY
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] 질문 분석: 삼성전자 → {'type': 'company', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] 추출된 키워드: ['삼성전자']
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] 검색 1단계 시도: 기본 검색: 삼성전자
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] 쿼리: "삼성전자"
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6176, 'documents': [{'news_id': '02100401.20250629134548001', 'title': '삼성전자, 부산서 AI 가전 전시…"AI 비스포크로 여름나기"', 'content': "에케·부산디자인페스티벌 연계 \n여름철 쾌적한 '라이프스타일
+[2025-06-29 17:45:42] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 6176개 결과
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:45:55] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:45:56] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:45:56] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:45:56] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:55:48] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:55:48] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:55:48] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:55:48] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:55:49] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:57:20] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:57:20] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:57:20] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:57:20] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:57:21] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:22] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6205, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:57:28] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6205, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] 최종 검색 쿼리: ("네이버" OR "Naver" OR "035420")
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:29] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 7249, 'documents': [{'news_id': '04100078.20250605090932002', 'title': "[리포트 브리핑]NAVER, '펀더멘털 개선 vs. 멀티플 디레이팅' 목표가 260,000원 - KB증권", 'content': "[서울=뉴스핌] 
+[2025-06-29 17:57:30] [api.bigkinds] [INFO] 최종 검색 쿼리: ("네이버" OR "Naver" OR "035420")
+[2025-06-29 17:57:30] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:57:30] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:57:30] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:30] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:57:30] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:30] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 206, 'documents': [{'news_id': '02100311.20250619071725001', 'title': '100兆 AI 펀드’ 기대감…네이버, 하루 만에 시총 6兆 급증 [줍줍 리포트]', 'content': 'NAVER(035420)가 오랜 침묵을 깨고
+[2025-06-29 17:57:33] [api.bigkinds] [INFO] 최종 검색 쿼리: ("현대자동차" OR "Hyundai Motor" OR "005380")
+[2025-06-29 17:57:33] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 17:57:33] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 17:57:33] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:34] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 17:57:34] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:34] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 146, 'documents': [{'news_id': '02100311.20250616102725001', 'title': '현대차그룹, 美IIHS 평가서 ‘가장 안전한 차’ 2년 연속 최다 선정', 'content': "현대차(005380)그룹은 미국 고속도로 안전보험협회
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 17:57:37] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:00:02] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:00:02] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 18:00:02] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 18:00:02] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:00:02] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 18:00:02] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:00:02] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 745, 'documents': [{'news_id': '04102008.20250626070040001', 'title': '엔비디아, 150달러 돌파하며 역대 최고가 경신…시총 1위 탈환', 'content': '엔비디아 로고. 연합뉴스\xa0 \n미국 반도체 기업 엔비디
+[2025-06-29 18:00:28] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:00:28] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 18:00:28] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 18:00:28] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:00:28] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 18:00:28] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:00:28] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 3, 'documents': [{'news_id': '04102008.20250626070040001', 'title': '엔비디아, 150달러 돌파하며 역대 최고가 경신…시총 1위 탈환', 'content': '엔비디아 로고. 연합뉴스\xa0 \n미국 반도체 기업 엔비디아 
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:01:27] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:03:50] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:03:51] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:03:51] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:03:51] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:16] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:44] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '해외공연시장', 'count': 2671}, {'date': '20250629', 'query': '뮤지컬투자', 'count': 2671}, {'date': '20250629', 'query': '공연소비', 'count'
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:06:52] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2504}, {'date': '20250629', 'query': '해외공연시장', 'count': 2504}, {'date': '20250629', 'query': '공연국제교류', 'coun
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '해외공연시장', 'count': 2671}, {'date': '20250629', 'query': '뮤지컬투자', 'count': 2671}, {'date': '20250629', 'query': '공연소비', 'count'
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 18:07:51] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 18:07:52] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '해외공연시장', 'count': 2671}, {'date': '20250629', 'query': '뮤지컬투자', 'count': 2671}, {'date': '20250629', 'query': '공연소비', 'count'
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2803}, {'date': '20250629', 'query': '공연유통', 'count': 2803}, {'date': '20250629', 'query': '공연데이터', 'count':
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 19:18:35] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:18:36] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2803}, {'date': '20250629', 'query': '공연유통', 'count': 2803}, {'date': '20250629', 'query': '공연데이터', 'count':
+[2025-06-29 19:42:13] [api.bigkinds] [INFO] 질문 분석: 엔비디아 주가 → {'type': 'finance', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-06-29 19:42:13] [api.bigkinds] [INFO] 추출된 키워드: ['엔비디아', '주가']
+[2025-06-29 19:42:13] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 엔비디아 + 주가
+[2025-06-29 19:42:13] [api.bigkinds] [INFO] 쿼리: "엔비디아" AND "주가"
+[2025-06-29 19:42:13] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 19:42:13] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 19:42:13] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:42:14] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 19:42:14] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:42:14] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 750, 'documents': [{'news_id': '02100311.20250629160051001', 'title': '“젠슨 황 등 엔비디아 경영진, 1조 이상 주식 매도”', 'content': '젠슨 황 최고경영자(CEO) 등 엔비디아 경영진들이 인공지능(AI) 
+[2025-06-29 19:42:14] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 750개 결과
+[2025-06-29 19:42:14] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-06-29 19:42:14] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-06-29 19:42:14] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:42:18] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-06-29 19:42:18] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:42:18] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'AI', 'level': 1, 'weight': 97.83}, {'id': 3, 'name': '인공지능', 'level': 3, 'weight': 79.86}, {'id': 4, 'name': 'SK하이닉스', 'level': 3, 'weight'
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 19:55:02] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2803}, {'date': '20250629', 'query': '공연유통', 'count': 2803}, {'date': '20250629', 'query': '공연데이터', 'count':
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-28', 'topics': [{'topic': '특검, 尹 오전조사 종료…체포영장 집행 지시 집중 확인', 'topic_rank': 67, 'topic_keyword': '조사,특검,국무,국무회의,회의,종료,체포,마무리,오전조사,체포방해,방해,내란특검,내란,외환,윤석열,
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-29, until: 2025-06-30, limit: 30
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 19:55:03] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250629', 'query': '공연마케팅', 'count': 2803}, {'date': '20250629', 'query': '공연유통', 'count': 2803}, {'date': '20250629', 'query': '공연데이터', 'count':
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] 질문 분석: 엔비디아 주가 → {'type': 'finance', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] 추출된 키워드: ['엔비디아', '주가']
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 엔비디아 + 주가
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] 쿼리: "엔비디아" AND "주가"
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-29 20:24:38] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 20:24:39] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-29 20:24:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 20:24:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 750, 'documents': [{'news_id': '02100311.20250629160051001', 'title': '“젠슨 황 등 엔비디아 경영진, 1조 이상 주식 매도”', 'content': '젠슨 황 최고경영자(CEO) 등 엔비디아 경영진들이 인공지능(AI) 
+[2025-06-29 20:24:39] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 750개 결과
+[2025-06-29 20:24:39] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-06-29 20:24:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-06-29 20:24:39] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-29 20:24:42] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-06-29 20:24:42] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-29 20:24:42] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'AI', 'level': 1, 'weight': 97.83}, {'id': 3, 'name': '인공지능', 'level': 3, 'weight': 79.86}, {'id': 4, 'name': 'SK하이닉스', 'level': 3, 'weight'
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 00:45:15] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:45:16] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 00:45:16] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:45:16] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 00:45:16] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 00:45:16] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 00:45:16] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 00:45:16] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:45:17] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 00:46:01] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:46:02] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 00:46:02] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:46:02] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 00:46:02] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 00:46:02] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 00:46:02] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 00:46:02] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:46:03] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 00:46:03] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:46:03] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 00:46:03] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 00:46:03] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 00:46:03] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 00:46:03] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:46:15] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 00:46:15] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:46:15] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:47:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 00:53:53] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 00:53:53] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 00:53:53] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 00:53:53] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 00:53:54] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 01:01:17] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 01:01:17] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 01:01:17] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 01:01:17] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 01:01:18] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': '개정', 'count': 3}, {'date': '20250630', 'query': '일부', 'count': 3}, {'date': '20250630', 'query': '법률안', 'count': 3}, {'date':
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] 질문 분석: 삼성 → {'type': 'company', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] 추출된 키워드: ['삼성']
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] 검색 1단계 시도: 기본 검색: 삼성
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] 쿼리: "삼성"
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-06-30 01:01:29] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 01:01:30] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-06-30 01:01:30] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 01:01:30] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 14625, 'documents': [{'news_id': '02100861.20250630092221001', 'title': '삼성전자, 부산서 라이프스타일 전시 개최', 'content': '삼성전자가 지난 26일부터 28일까지 부산 해운대구 중동 달맞이길 복합문화공간 
+[2025-06-30 01:01:30] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 14625개 결과
+[2025-06-30 01:01:30] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-06-30 01:01:30] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-06-30 01:01:30] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 01:01:33] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-06-30 01:01:33] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 01:01:33] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': '아트 스토어', 'level': 1, 'weight': 26.22}, {'id': 3, 'name': '아트 바젤', 'level': 3, 'weight': 11.14}, {'id': 4, 'name': '방탄소년단 RM 선정', 'level': 3
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 06:54:12] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 2712}, {'date': '20250630', 'query': '해외공연시장', 'count': 810}, {'date': '20250630', 'query': '공연소비', 'count':
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 06:54:13] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 2712}, {'date': '20250630', 'query': '해외공연시장', 'count': 810}, {'date': '20250630', 'query': '공연소비', 'count':
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 3969}, {'date': '20250630', 'query': '공연아카이브', 'count': 1222}, {'date': '20250630', 'query': '뮤지컬투자', 'count
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 09:52:11] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 09:54:04] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 09:54:04] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 09:54:04] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 3969}, {'date': '20250630', 'query': '공연아카이브', 'count': 1222}, {'date': '20250630', 'query': '뮤지컬투자', 'count
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 11:27:11] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 4775}, {'date': '20250630', 'query': '해외공연시장', 'count': 1574}, {'date': '20250630', 'query': '공연산업', 'count'
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 11:27:12] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 4775}, {'date': '20250630', 'query': '해외공연시장', 'count': 1574}, {'date': '20250630', 'query': '공연산업', 'count'
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 13:14:18] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 13:14:19] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 13:14:19] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 13:14:19] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 5626}, {'date': '20250630', 'query': '공연예술조사', 'count': 1891}, {'date': '20250630', 'query': '공연마켓', 'count'
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 6090}, {'date': '20250630', 'query': '공연산업', 'count': 2056}, {'date': '20250630', 'query': '공연마케팅', 'count':
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-06-30 14:29:39] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-06-29', 'topics': [{'topic': '이 대통령, 법무장관 정성호, 행안장관 윤호중 지명', 'topic_rank': 22, 'topic_keyword': '장관,정성호,기재,대통령,행안,구윤철,윤호중,복지,정은경,지명,부처,6개,인선,출신,법무장관,이진숙,김
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-06-30, until: 2025-07-01, limit: 30
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-06-30 14:29:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250630', 'query': 'seoul', 'count': 6090}, {'date': '20250630', 'query': '공연산업', 'count': 2056}, {'date': '20250630', 'query': '공연마케팅', 'count':
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-02', 'topics': [{'topic': '내란 특검, 한덕수 전 총리 오늘 소환', 'topic_rank': 48, 'topic_keyword': '내란,한덕수,특검,총리,소환,내란특검,국무총리,조사,10시,계엄,의혹,선포문,의심,위원,문건,계엄선포문,국무위원,진
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-03, until: 2025-07-04, limit: 30
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250703', 'query': '사가', 'count': 4216}, {'date': '20250703', 'query': '공연예술데이터활용', 'count': 3185}, {'date': '20250703', 'query': '공연빅데이터', 'coun
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-03 13:49:12] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-02', 'topics': [{'topic': '내란 특검, 한덕수 전 총리 오늘 소환', 'topic_rank': 48, 'topic_keyword': '내란,한덕수,특검,총리,소환,내란특검,국무총리,조사,10시,계엄,의혹,선포문,의심,위원,문건,계엄선포문,국무위원,진
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-03, until: 2025-07-04, limit: 30
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-03 13:49:13] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250703', 'query': '사가', 'count': 4216}, {'date': '20250703', 'query': '공연예술데이터활용', 'count': 3185}, {'date': '20250703', 'query': '공연빅데이터', 'coun
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] 질문 분석: 엔비디아 주가 최근 동향 → {'type': 'finance', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] 추출된 키워드: ['엔비디아', '주가']
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 엔비디아 + 주가
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] 쿼리: "엔비디아" AND "주가"
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-03 13:49:16] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-03 13:49:18] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-03 13:49:18] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-03 13:49:18] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 734, 'documents': [{'news_id': '02100701.20250703081605001', 'title': '‘크고 아름다운’ 감세안 덕 봤다…엔비디아 2.58% 급등· 반도체지수 1.88%↑[투자360]', 'content': '도널드 트럼프 미국 대통령이
+[2025-07-03 13:49:18] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 734개 결과
+[2025-07-03 13:49:22] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-03 13:49:22] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-03 13:49:22] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-03 13:49:24] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-03 13:49:24] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-03 13:49:24] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'AI', 'level': 2, 'weight': 1.5}, {'id': 3, 'name': '억만자자들', 'level': 3, 'weight': 1.0}, {'id': 4, 'name': '메타 플랫폼스', 'level': 3, 'weight': 
+[2025-07-03 14:21:50] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-02', 'topics': [{'topic': '내란 특검, 한덕수 전 총리 오늘 소환', 'topic_rank': 48, 'topic_keyword': '내란,한덕수,특검,총리,소환,내란특검,국무총리,조사,10시,계엄,의혹,선포문,의심,위원,문건,계엄선포문,국무위원,진
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-03, until: 2025-07-04, limit: 30
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-03 14:21:51] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:35] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 10:34:35] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 10:34:35] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 10:34:35] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '공연법', 'count': 1706}, {'date': '20250704', 'query': '공연마켓', 'count': 1706}, {'date': '20250704', 'query': '공연예술통계', 'count': 
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 10:34:36] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:34:37] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '공연법', 'count': 1706}, {'date': '20250704', 'query': '공연마켓', 'count': 1706}, {'date': '20250704', 'query': '공연예술통계', 'count': 
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] 질문 분석: 삼성전자 실적 발표 → {'type': 'company', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] 추출된 키워드: ['삼성전자', '실적']
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 삼성전자 + 실적
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] 쿼리: "삼성전자" AND "실적"
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 1010, 'documents': [{'news_id': '02100801.20250704065103002', 'title': '연고점 찍은 삼성전자, 상승세 이어갈까', 'content': '삼성전자가 최근 3일 연속 상승세를 이어가며 연고점을 돌파했다. 삼성전자가 6만30
+[2025-07-04 10:34:40] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 1010개 결과
+[2025-07-04 10:34:46] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-04 10:34:46] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-04 10:34:46] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:50] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-04 10:34:50] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:34:50] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'SK하이닉스', 'level': 1, 'weight': 122.36}, {'id': 3, 'name': '마이크론', 'level': 3, 'weight': 68.39}, {'id': 4, 'name': 'HBM', 'level': 3, 'weigh
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] 질문 분석: 삼성전자 실적 → {'type': 'company', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] 추출된 키워드: ['삼성전자', '실적']
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 삼성전자 + 실적
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] 쿼리: "삼성전자" AND "실적"
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 1010, 'documents': [{'news_id': '02100801.20250704065103002', 'title': '연고점 찍은 삼성전자, 상승세 이어갈까', 'content': '삼성전자가 최근 3일 연속 상승세를 이어가며 연고점을 돌파했다. 삼성전자가 6만30
+[2025-07-04 10:34:54] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 1010개 결과
+[2025-07-04 10:34:59] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-04 10:34:59] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-04 10:34:59] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:35:02] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-04 10:35:02] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:35:02] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'SK하이닉스', 'level': 1, 'weight': 104.41}, {'id': 3, 'name': 'HBM', 'level': 3, 'weight': 69.86}, {'id': 4, 'name': '반도체', 'level': 3, 'weight
+[2025-07-04 10:36:31] [api.bigkinds] [INFO] 질문 분석: 삼성전자 → {'type': 'company', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-04 10:36:31] [api.bigkinds] [INFO] 추출된 키워드: ['삼성전자']
+[2025-07-04 10:36:31] [api.bigkinds] [INFO] 검색 1단계 시도: 기본 검색: 삼성전자
+[2025-07-04 10:36:31] [api.bigkinds] [INFO] 쿼리: "삼성전자"
+[2025-07-04 10:36:31] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:36:31] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:36:31] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:36:32] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:36:32] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:36:32] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6527, 'documents': [{'news_id': '02100861.20250704084659001', 'title': '삼성전자서비스, 컴퓨터•휴대전화 AS ‘서비스품질’ 1위', 'content': '삼성전자서비스가 ‘2025 한국서비스품질지수’에서 컴퓨터 및 휴대
+[2025-07-04 10:36:32] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 6527개 결과
+[2025-07-04 10:36:36] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-04 10:36:36] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-04 10:36:36] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:36:40] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-04 10:36:40] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:36:40] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'AI', 'level': 1, 'weight': 56.96}, {'id': 3, 'name': '갤럭시', 'level': 3, 'weight': 22.11}, {'id': 4, 'name': '인공지능', 'level': 3, 'weight': 2
+[2025-07-04 10:37:40] [api.bigkinds] [INFO] 질문 분석: 갤럭시 → {'type': 'general', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-04 10:37:40] [api.bigkinds] [INFO] 추출된 키워드: ['갤럭시']
+[2025-07-04 10:37:40] [api.bigkinds] [INFO] 검색 1단계 시도: 기본 검색: 갤럭시
+[2025-07-04 10:37:40] [api.bigkinds] [INFO] 쿼리: "갤럭시"
+[2025-07-04 10:37:40] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:37:40] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:37:40] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:37:42] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:37:42] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:37:42] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 1266, 'documents': [{'news_id': '04101808.20250704063034001', 'title': '통신업계, 전용폰 시즌 도래…공짜폰도 등장?', 'content': "국내 이동통신사들이 전용 스마트폰을 다시 선보이며 경쟁에 돌입했다. 삼성전자 
+[2025-07-04 10:37:42] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 1266개 결과
+[2025-07-04 10:37:46] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-04 10:37:46] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-04 10:37:46] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:37:49] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-04 10:37:49] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:37:49] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': '삼성전자', 'level': 1, 'weight': 225.28}, {'id': 3, 'name': 'AI', 'level': 3, 'weight': 81.91}, {'id': 4, 'name': '스마트폰', 'level': 3, 'weight':
+[2025-07-04 10:37:52] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:37:52] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:37:52] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:37:52] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6557, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:37:53] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6557, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-07-04 10:37:56] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:37:56] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:37:56] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:37:56] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:37:57] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:37:57] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:37:57] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 392, 'documents': [{'news_id': '02100311.20250608202219001', 'title': "삼성전자, 초저전력 디지털 광고판 '이페이퍼' 출시", 'content': '삼성전자(005930)가 전력 공급 없이도 이미지를 화면에 띄워 놓을 수
+[2025-07-04 10:39:26] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:39:26] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:39:26] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:39:26] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:39:27] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:39:27] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:39:27] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6557, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-07-04 10:39:27] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:39:27] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:39:27] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:39:27] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:39:28] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:39:28] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:39:28] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6557, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 10:47:08] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '공연법', 'count': 1706}, {'date': '20250704', 'query': '공연마켓', 'count': 1706}, {'date': '20250704', 'query': '공연예술통계', 'count': 
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 10:47:09] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:10] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 10:47:10] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:10] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '공연법', 'count': 1706}, {'date': '20250704', 'query': '공연마켓', 'count': 1706}, {'date': '20250704', 'query': '공연예술통계', 'count': 
+[2025-07-04 10:47:14] [api.bigkinds] [INFO] 질문 분석: 반도체 수출 → {'type': 'general', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-04 10:47:14] [api.bigkinds] [INFO] 추출된 키워드: ['반도체', '수출']
+[2025-07-04 10:47:14] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 반도체 + 수출
+[2025-07-04 10:47:14] [api.bigkinds] [INFO] 쿼리: "반도체" AND "수출"
+[2025-07-04 10:47:14] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 10:47:14] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 10:47:14] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:15] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 10:47:15] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:15] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 3112, 'documents': [{'news_id': '02100861.20250704170808001', 'title': '“메모리 값 오르는데”⋯ 갑자기 불거진 하반기 ‘수요절벽론’', 'content': '올해 상반기 상승세를 타던 메모리 반도체시장이 하반기 둔화될 
+[2025-07-04 10:47:15] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 3112개 결과
+[2025-07-04 10:47:20] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-04 10:47:20] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-04 10:47:20] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': '중국', 'level': 1, 'weight': 91.36}, {'id': 3, 'name': 'SK하이닉스', 'level': 3, 'weight': 32.49}, {'id': 4, 'name': '삼성전자', 'level': 3, 'weight'
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 10:47:22] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '공연법', 'count': 1706}, {'date': '20250704', 'query': '공연마켓', 'count': 1706}, {'date': '20250704', 'query': '공연예술통계', 'count': 
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 10:47:23] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '공연법', 'count': 1706}, {'date': '20250704', 'query': '공연마켓', 'count': 1706}, {'date': '20250704', 'query': '공연예술통계', 'count': 
+[2025-07-04 12:59:28] [api.bigkinds] [INFO] 질문 분석: 엔비디아 주가는? → {'type': 'finance', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-04 12:59:28] [api.bigkinds] [INFO] 추출된 키워드: ['엔비디아', '주가는']
+[2025-07-04 12:59:28] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 엔비디아 + 주가는
+[2025-07-04 12:59:28] [api.bigkinds] [INFO] 쿼리: "엔비디아" AND "주가는"
+[2025-07-04 12:59:28] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 12:59:28] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 12:59:28] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 12:59:29] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 12:59:29] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 12:59:29] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 344, 'documents': [{'news_id': '02100351.20250704084654001', 'title': '[오늘의 뉴욕증시 무버] 엔비디아 1.3%↑···시총 4조 달러 고지 점령 임박', 'content': '[이투데이] 이진영 기자 (mint@etod
+[2025-07-04 12:59:29] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 344개 결과
+[2025-07-04 12:59:33] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-04 12:59:33] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-04 12:59:33] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 12:59:37] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-04 12:59:37] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 12:59:37] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'AI', 'level': 1, 'weight': 88.52}, {'id': 3, 'name': '인공지능', 'level': 3, 'weight': 68.87}, {'id': 4, 'name': '경신', 'level': 3, 'weight': 47
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6598, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 12:59:58] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 12:59:59] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 12:59:59] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 12:59:59] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6598, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-07-04 13:00:04] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 13:00:04] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 13:00:04] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 13:00:04] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 395, 'documents': [{'news_id': '02100311.20250608202219001', 'title': "삼성전자, 초저전력 디지털 광고판 '이페이퍼' 출시", 'content': '삼성전자(005930)가 전력 공급 없이도 이미지를 화면에 띄워 놓을 수
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] 최종 검색 쿼리: ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:05] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 6598, 'documents': [{'news_id': '04100608.20250616103329001', 'title': '삼성전자, C랩 아웃사이드 8기 스타트업 공개 모집 진행', 'content': '브레이크뉴스 정민우 기자= 삼성전자가 오는 7월 4일까지 ‘C랩 
+[2025-07-04 13:00:09] [api.bigkinds] [INFO] 최종 검색 쿼리: ("카카오" OR "Kakao" OR "035720")
+[2025-07-04 13:00:09] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 13:00:09] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 13:00:09] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:10] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 13:00:10] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:10] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 5640, 'documents': [{'news_id': '04100608.20250620162456001', 'title': '카톡 스포방지 기능 추가..민감한 내용에 모자이크 처리', 'content': "▲ 20일 업계에 따르면 카카오는 최근 카카오톡 업데이트를 통해 카
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 13:00:19] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '해외공연시장', 'count': 2150}, {'date': '20250704', 'query': '뮤지컬투자', 'count': 2150}, {'date': '20250704', 'query': '공연축제', 'count'
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] BigKinds API 키가 설정되었습니다.
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] BigKinds API POST 요청: issue_ranking
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/issue_ranking
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] API 응답 성공: issue_ranking
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'date': '2025-07-03', 'topics': [{'topic': '김민석 총리후보 인준안 국회 통과…국힘은 표결 보이콧', 'topic_rank': 151, 'topic_keyword': '김민석,총리,인준,국회,통과,인준안,국힘,불참,본회의,표결,회의,국무총리,후보,임명,임명동의안,동의
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] 인기 키워드 요청 - from: 2025-07-04, until: 2025-07-05, limit: 30
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] BigKinds API POST 요청: query_rank
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/query_rank
+[2025-07-04 13:00:20] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:21] [api.bigkinds] [INFO] API 응답 성공: query_rank
+[2025-07-04 13:00:21] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:21] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'queries': [{'date': '20250704', 'query': '해외공연시장', 'count': 2150}, {'date': '20250704', 'query': '뮤지컬투자', 'count': 2150}, {'date': '20250704', 'query': '공연축제', 'count'
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] 질문 분석: 삼성전자 실적 → {'type': 'company', 'time_sensitive': False, 'comparison': False, 'analysis_depth': 'basic'}
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] 추출된 키워드: ['삼성전자', '실적']
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] 검색 1단계 시도: 정확도 우선 (모든 키워드 포함): 삼성전자 + 실적
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] 쿼리: "삼성전자" AND "실적"
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] BigKinds API POST 요청: search/news
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/search/news
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] API 응답 성공: search/news
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:24] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'total_hits': 1030, 'documents': [{'news_id': '04102008.20250704110730001', 'title': '허리 띠 조이는 삼성전자, 올 상반기 성과급 0%도 나와…사업 부진 여파', 'content': "쿠키뉴스 자료사진 \n삼성전자의 반도체 사업 부진
+[2025-07-04 13:00:25] [api.bigkinds] [INFO] ✅ 1단계 검색 성공: 1030개 결과
+[2025-07-04 13:00:30] [api.bigkinds] [INFO] BigKinds API POST 요청: word_cloud
+[2025-07-04 13:00:30] [api.bigkinds] [INFO] 전체 URL: https://tools.kinds.or.kr/word_cloud
+[2025-07-04 13:00:30] [api.bigkinds] [INFO] API 키: 5bf1dc66-79f7-4788-9593-be209e4472e3
+[2025-07-04 13:00:33] [api.bigkinds] [INFO] API 응답 성공: word_cloud
+[2025-07-04 13:00:33] [api.bigkinds] [INFO] 응답 상태: 200
+[2025-07-04 13:00:33] [api.bigkinds] [INFO] 응답 내용 (첫 200자): {'result': 0, 'return_object': {'nodes': [{'id': 2, 'name': 'SK하이닉스', 'level': 1, 'weight': 104.41}, {'id': 3, 'name': 'HBM', 'level': 3, 'weight': 69.86}, {'id': 4, 'name': '반도체', 'level': 3, 'weight

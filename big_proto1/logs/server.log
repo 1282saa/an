@@ -1,0 +1,1290 @@
+[2025-06-29 16:41:04] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:41:04] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8000)
+[2025-06-29 16:43:11] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:43:11] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8000)
+[2025-06-29 16:43:12] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:43:12] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:56:26] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:56:26] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:56:37] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:56:37] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:58:37] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:58:37] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8000)
+[2025-06-29 16:58:38] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 16:58:38] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:01:20] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:20] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:20] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:20] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:20] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:20] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:32] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:32] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:32] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:32] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:32] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:32] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:01:32] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:14:41] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:14:41] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:14:41] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:17:56] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:17:56] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:17:56] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:21:54] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:21:54] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:21:54] [server] [ERROR] Unhandled exception occurred
+Traceback (most recent call last):
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 285, in app
+    raise e
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/routing.py", line 275, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 600, in solve_dependencies
+    solved = await run_in_threadpool(call, **sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/starlette/concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/file/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/routes/news_routes.py", line 35, in get_bigkinds_client
+    return BigKindsClient()
+           ^^^^^^^^^^^^^^^^
+  File "/Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/backend/api/clients/bigkinds/client.py", line 38, in __init__
+    self.logger.warning("BigKinds API 키가 설정되지 않았습니다. 제한된 기능만 사용할 수 있습니다.")
+    ^^^^^^^^^^^
+AttributeError: 'BigKindsClient' object has no attribute 'logger'
+[2025-06-29 17:22:02] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:22:02] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:27:32] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:27:32] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8000)
+[2025-06-29 17:28:06] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:28:06] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-29 17:28:07] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:28:07] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:42:07] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:42:07] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:42:22] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:42:22] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-29 17:42:22] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:42:22] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:43:24] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:43:24] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-29 17:43:25] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:43:25] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:47:21] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:47:21] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-29 17:47:52] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:47:52] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-29 17:47:53] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 17:47:53] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 20:13:55] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-29 20:16:17] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-30 00:45:07] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-30 00:45:07] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-30 00:46:39] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-30 00:46:39] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-30 00:47:00] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-30 00:47:00] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-30 00:47:34] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-30 00:47:34] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-06-30 00:47:35] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-06-30 00:47:35] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-07-03 13:48:57] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-07-03 13:48:57] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-07-03 13:48:58] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-07-03 13:48:58] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-07-04 10:34:11] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-07-04 10:34:11] [server] [INFO] 서버 시작 중... (host: 0.0.0.0, port: 8080)
+[2025-07-04 10:34:11] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist
+[2025-07-04 10:34:12] [server] [WARNING] 프론트엔드 빌드 경로를 찾을 수 없습니다: /Users/yeong-gwang/Documents/work/서울경제신문/빅카인즈/big_proto1/frontend/dist

@@ -1,0 +1,45 @@
+[2025-06-29 17:57:28] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-06-29 17:57:28] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-06-29 17:57:28] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-06-29 17:57:28] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-06-29 17:57:28] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-06-29 17:57:29] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-06-29 17:57:29] [api.entity.news] [INFO] 엔티티 뉴스 요청: naver (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-06-29 17:57:29] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("네이버" OR "Naver" OR "035420")
+[2025-06-29 17:57:29] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-06-29 17:57:30] [api.entity.news] [INFO] 엔티티 뉴스 요청: naver (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-06-29 17:57:30] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("네이버" OR "Naver" OR "035420")
+[2025-06-29 17:57:30] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-06-29 17:57:33] [api.entity.news] [INFO] 엔티티 뉴스 요청: hyundai (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-06-29 17:57:33] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("현대자동차" OR "Hyundai Motor" OR "005380")
+[2025-06-29 17:57:34] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 10:37:52] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 10:37:52] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:37:53] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 10:37:53] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 10:37:53] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:37:53] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 10:37:56] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 10:37:56] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:37:57] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 10:39:26] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 10:39:26] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:39:27] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 10:39:27] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 10:39:27] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 10:39:28] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 12:59:58] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 12:59:58] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 12:59:58] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 12:59:58] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 12:59:58] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 12:59:59] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 13:00:04] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 13:00:04] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 13:00:05] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 13:00:05] [api.entity.news] [INFO] 엔티티 뉴스 요청: samsung (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 13:00:05] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("삼성전자" OR "Samsung Electronics" OR "005930")
+[2025-07-04 13:00:06] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
+[2025-07-04 13:00:09] [api.entity.news] [INFO] 엔티티 뉴스 요청: kakao (카테고리: domestic_stock, 검색모드: enhanced)
+[2025-07-04 13:00:09] [api.entity.news] [INFO] 확장된 검색 쿼리 (enhanced): ("카카오" OR "Kakao" OR "035720")
+[2025-07-04 13:00:10] [api.entity.news] [INFO] 검색 결과 - 총 50개 기사 찾음
