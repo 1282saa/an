@@ -1,0 +1,117 @@
+# 환경변수 파일들 (절대 GitHub에 올리면 안됨!)
+.env
+.env.local
+.env.production
+.env.development
+backend/.env
+frontend/.env
+config/.env
+
+# API 키 및 민감한 설정 파일들
+*.key
+*.pem
+*.p12
+secrets/
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Cache
+cache/
+.cache/
+vectordb/
+*.db
+*.sqlite
+*.sqlite3
+
+# Node.js (Frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Frontend build
+frontend/build/
+frontend/dist/
+frontend/.next/
+frontend/out/
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.jest/
+
+# Docker
+.dockerignore
+
+# AWS 관련
+.aws/
+*.pem
+
+# 임시 파일들
+*.tmp
+*.temp
+temp/
+tmp/
+
+# 백업 파일들
+*.bak
+*.backup
+
+# 기타 민감한 파일들
+config.json
+settings.json
+local_settings.py 

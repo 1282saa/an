@@ -1,0 +1,23 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+cdk.out
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+
+# CDK Context
+cdk.context.json
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db

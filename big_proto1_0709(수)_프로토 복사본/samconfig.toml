@@ -1,0 +1,45 @@
+# SAM CLI configuration file
+
+[default]
+[default.build]
+[default.build.parameters]
+parallel = true
+cached = true
+exclude = [
+    "frontend/*",
+    "*.md",
+    "*.log",
+    ".git/*",
+    ".github/*",
+    "logs/*",
+    "cache/*",
+    "__pycache__/*",
+    "*.pyc"
+]
+
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "bigkinds-news-concierge"
+s3_bucket = ""  # SAM will create bucket automatically
+s3_prefix = "bigkinds-news-concierge"
+region = "us-east-1"
+confirm_changeset = false
+capabilities = ["CAPABILITY_IAM"]
+parameter_overrides = [
+    "Stage=dev",
+    "BigKindsApiKey=YOUR_BIGKINDS_API_KEY"
+]
+
+[prod]
+[prod.deploy]
+[prod.deploy.parameters]
+stack_name = "bigkinds-news-concierge-prod"
+s3_bucket = ""
+s3_prefix = "bigkinds-news-concierge-prod"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = ["CAPABILITY_IAM"]
+parameter_overrides = [
+    "Stage=prod",
+    "BigKindsApiKey=YOUR_BIGKINDS_API_KEY"
+]
